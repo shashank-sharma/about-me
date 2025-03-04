@@ -1,0 +1,19 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Shashank Sharma'
+theme = 'hugo-constellation'
+
+[params]
+  description = "An interactive knowledge graph showcasing my skills, experience, and projects."
+  
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+  page = ["HTML", "JSON"]
+  
+[outputFormats.JSON]
+  mediaType = "application/json"
+  isPlainText = true
+  notAlternative = true
+  path = "data"
+  baseName = "graph"
