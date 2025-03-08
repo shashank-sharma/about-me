@@ -13,5 +13,3 @@ Just a guy who is engineer for fun :)
 - 📧 shashank.sharma98@gmail.com
 - 🌐 https://shashanksharma.xyz/
 - 🌐 https://github.com/shashank-sharma
-
-This website is made using [hugo-constellation](https://github.com/shashank-sharma/hugo-constellation/)
